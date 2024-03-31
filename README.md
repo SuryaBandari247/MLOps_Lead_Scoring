@@ -41,6 +41,7 @@ Our system metrics for the ML model are :
 - Numpy - version 1.24.2
 - Pandas Profiling
 - seaborn - version - 0.12.2
+- SQLLITE - version - 3.0
 - Apache Airflow
 - MLflow
 - sklearn - version - 1.2.2
@@ -65,11 +66,6 @@ Our system metrics for the ML model are :
 * Airflow dag python file for inference pipeline
   ![image](https://github.com/SuryaBandari247/MLOps_Lead_Scoring_Open_Source/assets/128714777/ed7d76b1-087a-4f40-8a01-56518aa9bf0d)
 
-
-
-
-
-
  
 
 ## Acknowledgements
@@ -78,4 +74,4 @@ Our system metrics for the ML model are :
 
 
 ## Contact
-Created by [@suryabandari247] - feel free to contact me!
+Created by [@suryabandari247](https://www.linkedin.com/in/surya-bandari/) - feel free to contact me!
