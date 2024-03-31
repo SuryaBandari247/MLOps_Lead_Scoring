@@ -43,12 +43,15 @@ Our system metrics for the ML model are :
 - Python - version 3.10.0
 - Pandas - version 2.0
 - Numpy - version 1.24.2
-- Pandas Profiling
+- sklearn - version - 1.2.2
 - seaborn - version - 0.12.2
 - SQLLITE - version - 3.0
+- Pandas Profiling
+- PyCarat
+- PyTest
 - Apache Airflow
 - MLflow
-- sklearn - version - 1.2.2
+
 
 ## Results
 * screenshot of the experiments in MLFlow
