@@ -6,6 +6,7 @@ It used the money to increase its brand awareness. As the marketing spend increa
 * [General Information](#general-information)
 * [Steps followed](#Steps)
 * [Technologies Used](#technologies-used)
+* [Results](#Results)
 * [Acknowledgements](#acknowledgements)
 
 
@@ -43,6 +44,33 @@ Our system metrics for the ML model are :
 - Apache Airflow
 - MLflow
 - sklearn - version - 1.2.2
+
+## Results
+* screenshot of the experiments in MLFlow
+![image](https://github.com/SuryaBandari247/MLOps_Lead_Scoring_Open_Source/assets/128714777/0f45ae0e-1635-4e35-be10-fb1979789564)
+* Light Gradient Boosting Artifacts under Baseline_model_exp01
+ ![image](https://github.com/SuryaBandari247/MLOps_Lead_Scoring_Open_Source/assets/128714777/4f3ce766-fc73-4b8d-af83-4df09f5d8838)
+* Airflow dags python file for data pipeline
+  ![image](https://github.com/SuryaBandari247/MLOps_Lead_Scoring_Open_Source/assets/128714777/4f785975-3b21-4942-a66c-1057a6815efc)
+* Airflow dag python file for data pipeline
+  ![image](https://github.com/SuryaBandari247/MLOps_Lead_Scoring_Open_Source/assets/128714777/12be0b34-1d1e-4dd8-bbea-70788dd4dd70)
+* Model Registry
+  ![image](https://github.com/SuryaBandari247/MLOps_Lead_Scoring_Open_Source/assets/128714777/c490f757-e86b-43c8-aa3c-3f993ca32e71)
+* Airflow dag python file for training pipeline
+  ![image](https://github.com/SuryaBandari247/MLOps_Lead_Scoring_Open_Source/assets/128714777/bd60367c-ab3c-44f0-bede-eb5251febbc4)
+* Airflow dag python file for training pipeline
+  ![image](https://github.com/SuryaBandari247/MLOps_Lead_Scoring_Open_Source/assets/128714777/4400d66a-aaad-4d17-ae82-51f5bf525baa)
+* Airflow dag python file for inference pipeline
+  ![image](https://github.com/SuryaBandari247/MLOps_Lead_Scoring_Open_Source/assets/128714777/dc9ab81f-951a-4c63-8015-60b88534751d)
+* Airflow dag python file for inference pipeline
+  ![image](https://github.com/SuryaBandari247/MLOps_Lead_Scoring_Open_Source/assets/128714777/ed7d76b1-087a-4f40-8a01-56518aa9bf0d)
+
+
+
+
+
+
+ 
 
 ## Acknowledgements
 - Upgrad
