@@ -1,3 +1,7 @@
+<a name="readme-top"></a>
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/surya-bandari/)
+
+
 # Lead Scoring Case study - Using only Open Source tools
 > CodePro is an EdTech startup that had a phenomenal seed A funding round. 
 It used the money to increase its brand awareness. As the marketing spend increased, it got several leads from different sources. Although it had spent significant money on acquiring customers, it had to be profitable in the long run to sustain the business. 
@@ -72,6 +76,6 @@ Our system metrics for the ML model are :
 - Upgrad
 - Google in general
 
-
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 ## Contact
 Created by [@suryabandari247](https://www.linkedin.com/in/surya-bandari/) - feel free to contact me!
